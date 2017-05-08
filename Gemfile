@@ -59,3 +59,8 @@ gem 'devise', github: 'plataformatec/devise'
 
 #Simple Form
 gem 'simple_form'
+
+#TrailBlazer
+gem 'trailblazer'
+gem 'trailblazer-rails'
+gem 'trailblazer-cells'
