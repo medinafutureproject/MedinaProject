@@ -64,3 +64,6 @@ gem 'simple_form'
 gem 'trailblazer'
 gem 'trailblazer-rails'
 gem 'trailblazer-cells'
+
+#Decent Exposure
+gem 'decent_exposure'
