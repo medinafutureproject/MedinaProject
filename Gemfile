@@ -52,3 +52,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+#Devise
+# TODO: Use 'devise' w/out specifying default branch after Devise release compatible with Rails 5.1
+gem 'devise', github: 'plataformatec/devise'
